@@ -15,7 +15,7 @@ These images have been labeled using the following code (code > 1 - labeling):
 Now all images are labeled in one csv file, that can be found in admin > labels.
 
 # Applying methods
-Five steganographic methods in the spatial domain have been applied to the images using external tools. These tools can be found in code > 2 - applying methods > tools or on (https://github.com/triinuerik/stegote for LSB, https://github.com/tony-josi/pvd_steganography for PVD and https://github.com/mobeets/bpcs for BPCS).
+Five steganographic methods in the spatial domain have been applied to the images using external tools. These tools can be found in code > 2 - applying methods > tools or on https://github.com/triinuerik/stegote for LSB, https://github.com/tony-josi/pvd_steganography for PVD and https://github.com/mobeets/bpcs for BPCS.
 
 Commands for these programs have been generated using generate_commands.py, which stores the commands per method in admin > commands. These commands can be copy pasted in the terminal of the main directory of the tool corresponding to the stegangraphic method.
 
